@@ -1,0 +1,26 @@
+{
+  "name": "sup-stats-plugin",
+  "version": "1.0.0",
+  "description": "Stats.js plugin for Superpowers, the extensible HTML5 2D+3D game engine.",
+  "homepage": "https://github.com/fraxken/superpowers-stats-plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fraxken/superpowers-stats-plugin"
+  },
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "stats-js": "^1.0.0-alpha1"
+  },
+  "keywords": [
+    "superpowers",
+    "plugin",
+    "statsJS"
+  ],
+  "bugs": {
+    "url": "https://github.com/fraxken/superpowers-stats-plugin/issues"
+  },
+  "maintainers": [
+    "GENTILHOMME Thomas <gentilhomme.thomas@gmail.com>"
+  ],
+  "license": "MIT"
+}
